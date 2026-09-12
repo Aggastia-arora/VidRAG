@@ -1,4 +1,4 @@
-# AI Video Assistant
+# VidRAG
 
 An AI-powered video assistant designed to process video content and provide useful information from it using speech transcription, summarization, retrieval, and question-answering capabilities.
 
